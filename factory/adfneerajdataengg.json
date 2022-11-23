@@ -1,0 +1,9 @@
+{
+	"name": "adfneerajdataengg",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58aa8ffb-c7ce-45a6-a811-7dc68d47341d",
+		"tenantId": "427640af-d43f-4ba3-a5d5-5981f7c30178"
+	}
+}
